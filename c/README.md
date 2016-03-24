@@ -1,5 +1,5 @@
-Implementation of basic data structures in various languages. 
-Submit pull request if you want to add something.
+Implementation of basic data structures in C. 
+Pull requests are welcome.
 
 ----------
 Bishisht Bhatta
